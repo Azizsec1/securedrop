@@ -126,7 +126,7 @@ flask-wtf==1.0.0 \
     --hash=sha256:01feccfc395405cea48a3f36c23f0d766e2cc6fd2a5a065ad50ad3e5827ec797 \
     --hash=sha256:872fbb17b5888bfc734edbdcf45bc08fb365ca39f69d25dc752465a455517b28
     # via -r requirements/python3/requirements.in
-flask==2.0.3 \
+flask==2.2.5 \
     --hash=sha256:59da8a3170004800a2837844bfa84d49b022550616070f7cb1a659682b2e7c9f \
     --hash=sha256:e1120c228ca2f553b470df4a5fa927ab66258467526069981b3eb0a91902687d
     # via
