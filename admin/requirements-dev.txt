@@ -8,7 +8,7 @@ astroid==2.12.11 \
     --hash=sha256:2df4f9980c4511474687895cbfdb8558293c1a826d9118bb09233d7c2bff1c83 \
     --hash=sha256:867a756bbf35b7bc07b35bfa6522acd01f91ad9919df675e8428072869792dce
     # via pylint
-certifi==2018.4.16 \
+certifi==2023.7.22 \
     --hash=sha256:13e698f54293db9f89122b0581843a782ad0934a4fe0172d2a980ba77fc61bb7 \
     --hash=sha256:9fa520c1bacfb634fa7af20a76bcbd3d5fb390481724c597da32c719a7dca4b0
     # via requests
