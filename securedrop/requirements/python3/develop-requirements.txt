@@ -156,7 +156,7 @@ bracex==2.3.post1 \
 cerberus==1.3.1 \
     --hash=sha256:0be48fc0dc84f83202a5309c0aa17cd5393e70731a1698a50d118b762fbe6875
     # via molecule
-certifi==2022.12.7 \
+certifi==2023.7.22 \
     --hash=sha256:35824b4c3a97115964b408844d64aa14db1cc518f6562e8d7261699d1350a9e3 \
     --hash=sha256:4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18
     # via requests
@@ -357,7 +357,7 @@ gitdb2==2.0.3 \
     --hash=sha256:b60e29d4533e5e25bb50b7678bbc187c8f6bcff1344b4f293b2ba55c85795f09 \
     --hash=sha256:cf9a4b68e8c4da8d42e48728c944ff7af2d8c9db303ac1ab32eac37aa4194b0e
     # via gitpython
-gitpython==2.1.8 \
+gitpython==3.1.35 \
     --hash=sha256:ad61bc25deadb535b047684d06f3654c001d9415e1971e51c9c20f5b510076e9 \
     --hash=sha256:b8367c432de995dc330b5b146c5bfdc0926b8496e100fda6692134e00c0dcdc5
     # via bandit
@@ -778,7 +778,7 @@ pyyaml==5.4.1 \
     #   pre-commit
     #   python-gilt
     #   yamllint
-requests==2.26.0 \
+requests==2.31.0 \
     --hash=sha256:6c1246513ecd5ecd4528a0906f910e8f0f9c6b8ec72030dc9fd154dc1a6efd24 \
     --hash=sha256:b8aa58f8cf793ffd8782d3d8cb19e66ef36f7aba4353eec859e74678b01b07a7
     # via
@@ -842,7 +842,7 @@ selinux==0.2.1 \
     --hash=sha256:820adcf1b4451c9cc7759848797703263ba0eb6a4cad76d73548a9e0d57b7926 \
     --hash=sha256:d435f514e834e3fdc0941f6a29d086b80b2ea51b28112aee6254bd104ee42a74
     # via molecule-vagrant
-semgrep==0.98.0 \
+semgrep==1.25.0 \
     --hash=sha256:26082d1b2f4c0b8c56bac72cc6af92ec4a13e17764b7547cb43145d327bbd115 \
     --hash=sha256:69adda816af99632554dda17d2697a0aa80e4ef6ef32204947c3077d22d5478f \
     --hash=sha256:c46dea0f4ee823f3472cef9e59a60ad6e5e5e8202353a0af1fedbf12533432d6 \
@@ -1000,7 +1000,7 @@ ujson==5.5.0 \
     --hash=sha256:f63d1ae1ca17bb2c847e298c7bcf084a73d56d434b4c50509fb93a4b4300b0b2 \
     --hash=sha256:ff4928dc1e9704b567171c16787238201fdbf023665573c12c02146fe1e02eec
     # via python-lsp-jsonrpc
-urllib3==1.26.6 \
+urllib3==1.26.18 \
     --hash=sha256:39fb8672126159acb139a7718dd10806104dec1e2f0f6c88aab05d17df10c8d4 \
     --hash=sha256:f57b4c16c62fa2760b7e3d97c35b255512fb6b59a259730f36ba32ce9f8e342f
     # via
@@ -1048,7 +1048,7 @@ pip==21.3 \
     # via
     #   -r requirements/python3/develop-requirements.in
     #   pip-tools
-setuptools==56.0.0 \
+setuptools==65.5.1 \
     --hash=sha256:08a1c0f99455307c48690f00d5c2ac2c1ccfab04df00454fef854ec145b81302 \
     --hash=sha256:7430499900e443375ba9449a9cc5d78506b801e929fef4a186496012f93683b5
     # via
